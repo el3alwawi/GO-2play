@@ -1,0 +1,6 @@
+owner=417494861693059077
+prefix=2
+game=Gamer's Offic | 2play
+stayinchannel=true
+songinstatus=false
+token=NTQ1ODU2MzM5MTI1OTkzNDcz.D2QbJA.yp1EbevomjUQqSBStwZyxR1DNU8
